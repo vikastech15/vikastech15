@@ -61,5 +61,5 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 <h3 align="right"> ~ Vikas</h3>
 
 ---
-📫 **Let’s Connect** 
+<p>📫 **Let’s Connect**&nbsp;&nbsp;&nbsp;&nbsp;</p>
 [📧 Email Me] vikasguptaverma@gmail.com • [💼 LinkedIn](https://www.linkedin.com/in/vikas-gupta-59035b2a4)
