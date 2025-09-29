@@ -60,6 +60,6 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 
 ⚡ _“Code is like magic — if you know the spell, you can build anything.”_
 
-<h3> ~ Vikas</h3>
+<h3 align="right"> ~ Vikas</h3>
 
 ---
