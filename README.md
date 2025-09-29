@@ -54,8 +54,6 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vikastech15&show_icons=true&locale=en" alt="vikastech15" /></p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vikastech15&" alt="vikastech15" /></p>
 
-📫 **Let’s Connect**  [📧 Email Me] vikasguptaverma@gmail.com • [💼 LinkedIn](https://www.linkedin.com/in/vikas-gupta-59035b2a4)
-
 ---
 
 ⚡ _“Code is like magic — if you know the spell, you can build anything.”_
@@ -63,3 +61,5 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 <h3 align="right"> ~ Vikas</h3>
 
 ---
+📫 **Let’s Connect** 
+[📧 Email Me] vikasguptaverma@gmail.com • [💼 LinkedIn](https://www.linkedin.com/in/vikas-gupta-59035b2a4)
