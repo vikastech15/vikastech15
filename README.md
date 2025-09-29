@@ -62,4 +62,4 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 
 ---
 
-<h3> Vikas</h3>
+<h3> ~ Vikas</h3>
